@@ -43,9 +43,3 @@ Ensure you have the following installed:
 - Add a **GUI version** with better visuals
 - Implement **AI mode** for single-player gameplay
 
-## 👥 Contributor
-- **Ehsan Tanvir**
-
-## ⭐ Support the Project
-If you find this project helpful, **give it a star ⭐ on GitHub**! 🚀
-
