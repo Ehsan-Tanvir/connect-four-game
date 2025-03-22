@@ -1,4 +1,4 @@
-# Connect Four Game
+# connect-four-game
 
 ## Overview  
 A simple **Connect Four** game implemented in **C++**, where two players take turns dropping tokens into a 4x4 grid, aiming to connect four in a row, column, or diagonal to win.
